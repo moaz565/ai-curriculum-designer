@@ -1,0 +1,5 @@
+{
+  "name": "AI Curriculum Designer",
+  "description": "Generate a personalized 5-day learning plan for any skill using AI. Input the skill you want to learn and your current level, and get a structured, actionable plan to kickstart your journey.",
+  "requestFramePermissions": []
+}
